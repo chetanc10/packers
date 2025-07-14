@@ -18,6 +18,6 @@ Bash shell wrappers for various archive/unarchive tools
 
 # Installation
 Easy installation using basher:
-basher install chetanc10/packers
+```basher install chetanc10/packers```
 
 
