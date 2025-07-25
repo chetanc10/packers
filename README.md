@@ -17,7 +17,5 @@ Bash shell wrappers for various archive/unarchive tools
 - bz2
 
 # Installation
-Easy installation using basher:
-```basher install chetanc10/packers```
-
-
+Using basherbee (recommended): ```basherbee install chetanc10/packers```  
+Using basher: ```basher install chetanc10/packers```
